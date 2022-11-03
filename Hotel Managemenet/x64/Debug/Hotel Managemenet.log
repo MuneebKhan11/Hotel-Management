@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\munee\source\repos\Hotel Managemenet\Hotel Managemenet\Source.cpp(133,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\munee\source\repos\Hotel Managemenet\Hotel Managemenet\Source.cpp(240,19): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\munee\source\repos\Hotel Managemenet\Hotel Managemenet\Source.cpp(253,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\munee\source\repos\Hotel Managemenet\Hotel Managemenet\Source.cpp(334,7): warning C4102: 'chance': unreferenced label
+  Hotel Managemenet.vcxproj -> C:\Users\munee\source\repos\Hotel Managemenet\x64\Debug\Hotel Managemenet.exe
